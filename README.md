@@ -619,3 +619,19 @@ Remember that this resets the `cineverse` database to the data defined in the SQ
 **Data Processing:** Pandas  
 
 Built as a practical demonstration of **MySQL database concepts integrated with a Python Streamlit application**.
+
+---
+
+# 👩‍💻 Author
+
+**Trisha Basak**
+
+GitHub:
+
+https://github.com/trishab2005
+
+---
+
+# ⭐ Support
+
+If you found this project useful, consider giving it a ⭐ on GitHub.
